@@ -1,5 +1,13 @@
-### Hi there 👋
+### Hello GitHub! My name is Thomas Li :smile:
 
+I am a Chemical Engineering Student at the University of Waterloo! I work on my skills one line at a time! :sweat_smile:
+
+#### *Some background on myself:*
+- :snake:I am learning to code in python
+- :basketball:I follow the NBA and cheer on the Raptors!!! 
+- 📫You can reach me at the following email: tj4li@uwaterloo.ca
+
+ ###### *_Have yourself a wonderful day!_*
 <!--
 **tj4li/tj4li** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
